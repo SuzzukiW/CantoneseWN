@@ -1,4 +1,4 @@
-# The Cantonese Wordnet
+# About The Cantonese Wordnet
 
 This repository contains the data for the Cantonese Wordnet project. This project was created and is continuously updated by Joanna Ut-Seong Sio (Palacký University, Czech Republic) and Luis Morgado da Costa (Palacký University, Czech Republic). 
 
@@ -7,6 +7,8 @@ Our wordnet contains data both in traditional characters and in Jyutping (a roma
  - a legacy TSV format adopted by the original version of the [Open Multilingual Wordnet](http://compling.hss.ntu.edu.sg/omw/); (due to format constraints, not all data are available in the legacy format -- i.e. Jyutping forms). 
 
 Currently the Cantonese Wordnet contains over 16,500 hand-checked lemmas and respective romanizations, distributed across all major parts-of-speech. More descriptive statistics and methodology can be found in its canonical citation (see below).   
+
+
 
 #### License
 The Cantonese wordnet is released under a Creative Commons Attribution 4.0 International License (CC BY 4.0) and its canonical citation is: 
