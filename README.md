@@ -14,6 +14,6 @@ We appreciated Sio, Joanna Ut-Seong, & Morgado da Costa, Luis first issue of the
 
 This process may take more than 6 months since there are few technical issues we encoutered right now.
 
-#### License
+# License
 The Cantonese wordnet is released under a Creative Commons Attribution 4.0 International License (CC BY 4.0) and its canonical citation is: 
 > Sio, Joanna Ut-Seong, & Morgado da Costa, Luis. (2019). Building the Cantonese Wordnet. In _Proceedings of the Tenth Global Wordnet Conference_ (GWC 2019), pp. 206-215. Wroclaw, Poland. 
